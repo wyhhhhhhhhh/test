@@ -1,0 +1,3 @@
+/home/pc/文档/engineer_vision_hsv/TrackBar_debug/build/CMakeFiles/rebuild_cache.dir
+/home/pc/文档/engineer_vision_hsv/TrackBar_debug/build/CMakeFiles/edit_cache.dir
+/home/pc/文档/engineer_vision_hsv/TrackBar_debug/build/CMakeFiles/stereo.dir

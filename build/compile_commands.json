@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pc/文档/engineer_vision_hsv/TrackBar_debug/build",
+  "command": "/usr/bin/g++   -I/usr/include/eigen3 -isystem /usr/local/include/opencv  -std=c++11 -O2 -Wall -std=c++0x -O3 -DNDEBUG   -o CMakeFiles/stereo.dir/src/main.cpp.o -c /home/pc/文档/engineer_vision_hsv/TrackBar_debug/src/main.cpp",
+  "file": "/home/pc/文档/engineer_vision_hsv/TrackBar_debug/src/main.cpp"
+}
+]
